@@ -47,7 +47,7 @@ If you use the [esp32s2-evse-d-a board](https://github.com/dzurikmiroslav/esp32-
 
 ## Alternative example, without display
 
-The configuartion shown in `esp32-evse_ledstrip_for_twc2.yaml` uses an ESP32 C3 SuperMini and a LED strip to mimick the behavior of a Tesla Wall Connector - motivation for this is that the esp32s2-evse-d-a board [can be retrofitted into the case of a Tesla Wall Connector Gen 2](https://github.com/dzurikmiroslav/esp32-evse/discussions/164). 
+The configuartion shown in `esp32-evse_ledstrip_for_twc2.yaml` uses an ESP32 C3 SuperMini and a LED strip to mimick the behavior of a Tesla Wall Connector - motivation for this is that the esp32s2-evse-d-a board [can be retrofitted into the case of a Tesla Wall Connector Gen 2](https://dzurikmiroslav.github.io/esp32-evse-docs/10-hardware/build-examples/#tesla-wall-connector-gen2-box-revived). 
 
 ### Installation
 
